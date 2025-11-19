@@ -9,7 +9,7 @@ fi
 
 # Load prompt settings
 if [ -f "$HOME/.dotfiles/zsh/prompt.zsh" ]; then
-    source "$HOME/.dotfiles/zsh/prompt.zsh"
+    #source "$HOME/.dotfiles/zsh/prompt.zsh"
 fi
 
 # Load aliases
