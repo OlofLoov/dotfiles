@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-REPO_URL="https://github.com/YOUR_GITHUB_USERNAME/dotfiles.git"
+REPO_URL="https://github.com/OlofLoov/dotfiles.git"
 
 echo "📦 Installing dotfiles..."
 
