@@ -24,7 +24,7 @@ fi
 
 # Oh My Zsh
 export ZSH="$HOME/.oh-my-zsh"
-ZSH_THEME="robbyrussell"  # Default; prompt.zsh can override
+ZSH_THEME="agnoster"  # Default; prompt.zsh can override
 plugins=(git kubectl)
 
 # Load Oh My Zsh
