@@ -1,1 +1,1 @@
-bash <(curl -s https://github.com/OlofLoov/dotfiles/blob/main/install/bootstrap.sh)
+bash < (curl -s https://raw.githubusercontent.com/OlofLoov/dotfiles/main/install/bootstrap.sh)
